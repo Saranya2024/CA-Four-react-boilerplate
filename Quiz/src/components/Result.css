@@ -1,9 +1,10 @@
 .result-container {
-    font-family: Arial, sans-serif;
     background-color: #a7a4a4;
     border-radius: 15px;
     width: 800px;
-    height: 160px;
+    height: 200px;
+    margin-top: 150px;
+    padding: 10px;
   }
   
   .result-content {
