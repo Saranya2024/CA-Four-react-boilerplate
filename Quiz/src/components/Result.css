@@ -1,0 +1,31 @@
+.result-container {
+    font-family: Arial, sans-serif;
+    background-color: #a7a4a4;
+    border-radius: 15px;
+    width: 800px;
+    height: 160px;
+  }
+  
+  .result-content {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .result-content p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .restart-button {
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+
+  
